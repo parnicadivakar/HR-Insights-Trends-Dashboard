@@ -11,8 +11,8 @@ Identify high-risk departments and job roles
 Analyze employee demographics and salary trends
 Support data-driven HR decision-making
 
-**Tools & Technologies**
-Power BI
-Power Query
-DAX
+**Tools & Technologies**-
+Power BI,
+Power Query,
+DAX,
 Excel (CSV)
